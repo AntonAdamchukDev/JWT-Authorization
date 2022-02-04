@@ -1,0 +1,22 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "email": "asd@asd.asd",
+        "country": "australia",
+        "password": "123"
+      },
+      {
+        "id": 2,
+        "email": "sarah",
+        "country": "england",
+        "password": "123"
+      },
+      {
+        "id": 3,
+        "email": "admin",
+        "country": "usa",
+        "password": "123"
+      }
+    ]
+  }
